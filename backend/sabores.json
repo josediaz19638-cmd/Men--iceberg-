@@ -1,0 +1,58 @@
+{
+  "sabores": [
+    {
+      "id": "s1",
+      "nombre": "Russo",
+      "licor": "Smirnoff",
+      "disponible": false
+    },
+    {
+      "id": "s2",
+      "nombre": "Mango",
+      "licor": "Agotado",
+      "disponible": false
+    },
+    {
+      "id": "s3",
+      "nombre": "Venom sandia",
+      "licor": "Whisky",
+      "disponible": true
+    },
+    {
+      "id": "s4",
+      "nombre": "Chicle",
+      "licor": "Agotado",
+      "disponible": false
+    },
+    {
+      "id": "s5",
+      "nombre": "Sandia",
+      "licor": "Whisky",
+      "disponible": true
+    },
+    {
+      "id": "s6",
+      "nombre": "Four loko azul",
+      "licor": "Vodka",
+      "disponible": true
+    },
+    {
+      "id": "s7",
+      "nombre": "Lulo",
+      "licor": "Smirnoff",
+      "disponible": true
+    },
+    {
+      "id": "s8",
+      "nombre": "Fresa",
+      "licor": "Sin licor",
+      "disponible": true
+    },
+    {
+      "id": "s9",
+      "nombre": "Mango Biche",
+      "licor": "Sin licor",
+      "disponible": true
+    }
+  ]
+}

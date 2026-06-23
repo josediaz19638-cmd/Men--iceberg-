@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": "t001",
+      "category": "Tamaños",
+      "name": "Vaso 8onz",
+      "price": 0,
+      "available": true,
+      "updatedAt": "2026-05-09T18:39:23.413Z"
+    },
+    {
+      "id": "t002",
+      "category": "Tamaños",
+      "name": "Vaso 12onz",
+      "price": 14000,
+      "available": true
+    },
+    {
+      "id": "t003",
+      "category": "Tamaños",
+      "name": "Vaso 16onz",
+      "price": 18000,
+      "available": true
+    },
+    {
+      "id": "t004",
+      "category": "Tamaños",
+      "name": "Vaso 22onz",
+      "price": 24000,
+      "available": true
+    },
+    {
+      "id": "t005",
+      "category": "Tamaños",
+      "name": "Vaso 32onz",
+      "price": 34000,
+      "available": true
+    },
+    {
+      "id": "s001",
+      "category": "Sabores",
+      "name": "Russo",
+      "licor": "Smirnoff",
+      "price": 0,
+      "available": false,
+      "updatedAt": "2026-05-09T18:47:52.094Z"
+    },
+    {
+      "id": "s002",
+      "category": "Sabores",
+      "name": "Mango",
+      "licor": "Sin licor",
+      "price": 0,
+      "available": true,
+      "updatedAt": "2026-05-09T18:37:57.578Z"
+    },
+    {
+      "id": "s003",
+      "category": "Sabores",
+      "name": "Venom sandia",
+      "licor": "Whisky",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "s004",
+      "category": "Sabores",
+      "name": "Chicle",
+      "licor": "Sin licor",
+      "price": 0,
+      "available": false
+    },
+    {
+      "id": "s005",
+      "category": "Sabores",
+      "name": "Sandia",
+      "licor": "Whisky",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "s006",
+      "category": "Sabores",
+      "name": "Four loko azul",
+      "licor": "Vodka",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "s007",
+      "category": "Sabores",
+      "name": "Lulo",
+      "licor": "Smirnoff",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "s008",
+      "category": "Sabores",
+      "name": "Fresa",
+      "licor": "Sin licor",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "s009",
+      "category": "Sabores",
+      "name": "Mango Biche",
+      "licor": "Sin licor",
+      "price": 0,
+      "available": true
+    },
+    {
+      "id": "c001",
+      "category": "Cocteles",
+      "name": "Blue ice",
+      "price": 16000,
+      "available": true
+    },
+    {
+      "id": "c002",
+      "category": "Cocteles",
+      "name": "Red ice",
+      "price": 16000,
+      "available": true
+    },
+    {
+      "id": "c003",
+      "category": "Cocteles",
+      "name": "Sex in the beach",
+      "price": 16000,
+      "available": true
+    },
+    {
+      "id": "z001",
+      "category": "Cervezas",
+      "name": "Aguila",
+      "price": 4000,
+      "available": true
+    },
+    {
+      "id": "z002",
+      "category": "Cervezas",
+      "name": "Poker",
+      "price": 4000,
+      "available": true
+    },
+    {
+      "id": "z003",
+      "category": "Cervezas",
+      "name": "Corona",
+      "price": 9000,
+      "available": true
+    },
+    {
+      "category": "Sabores",
+      "name": "Fresa Especial",
+      "licor": "Vodka",
+      "price": 0,
+      "available": true,
+      "id": "s1778351876114",
+      "updatedAt": "2026-05-09T18:37:56.114Z"
+    },
+    {
+      "category": "Tamaños",
+      "name": "Vaso 40onz",
+      "price": 45000,
+      "available": true,
+      "id": "t1778352509392",
+      "updatedAt": "2026-05-09T18:48:29.392Z"
+    },
+    {
+      "category": "Tamaños",
+      "name": "Vaso 40onz",
+      "price": 45000,
+      "available": true,
+      "id": "t1778352632582",
+      "updatedAt": "2026-05-09T18:50:32.582Z"
+    }
+  ]
+}
